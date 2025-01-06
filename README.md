@@ -13,7 +13,7 @@ A terminal-based Pomodoro Timer with sound notifications for Linux.
 **Use the following command for installation:**
 
 ```bash
-git clone https://github.com/yourusername/terminal-pomodoro.git && cd terminal-pomodoro && chmod +x setup.sh && ./setup.sh
+git clone git@github.com:SimaoGato/terminal-pomodoro.git && cd terminal-pomodoro && chmod +x setup.sh && ./setup.sh
 ```
 
 # ⚙️ Usage
